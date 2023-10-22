@@ -1,0 +1,14 @@
+C:\Users\preet\source\repos\DIS Assignment\bin\Debug\net7.0\DIS Assignment.exe
+C:\Users\preet\source\repos\DIS Assignment\bin\Debug\net7.0\DIS Assignment.deps.json
+C:\Users\preet\source\repos\DIS Assignment\bin\Debug\net7.0\DIS Assignment.runtimeconfig.json
+C:\Users\preet\source\repos\DIS Assignment\bin\Debug\net7.0\DIS Assignment.dll
+C:\Users\preet\source\repos\DIS Assignment\bin\Debug\net7.0\DIS Assignment.pdb
+C:\Users\preet\source\repos\DIS Assignment\obj\Debug\net7.0\DIS Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preet\source\repos\DIS Assignment\obj\Debug\net7.0\DIS Assignment.AssemblyInfoInputs.cache
+C:\Users\preet\source\repos\DIS Assignment\obj\Debug\net7.0\DIS Assignment.AssemblyInfo.cs
+C:\Users\preet\source\repos\DIS Assignment\obj\Debug\net7.0\DIS Assignment.csproj.CoreCompileInputs.cache
+C:\Users\preet\source\repos\DIS Assignment\obj\Debug\net7.0\DIS Assignment.dll
+C:\Users\preet\source\repos\DIS Assignment\obj\Debug\net7.0\refint\DIS Assignment.dll
+C:\Users\preet\source\repos\DIS Assignment\obj\Debug\net7.0\DIS Assignment.pdb
+C:\Users\preet\source\repos\DIS Assignment\obj\Debug\net7.0\DIS Assignment.genruntimeconfig.cache
+C:\Users\preet\source\repos\DIS Assignment\obj\Debug\net7.0\ref\DIS Assignment.dll
